@@ -15,8 +15,8 @@ namespace Strata.Planets
 
         protected override void SetLayers()
         {
-            AddExampleLayers();
-            //SetMantle();
+            //AddExampleLayers();
+            SetMantle();
         }
 
         private void SetMantle()
