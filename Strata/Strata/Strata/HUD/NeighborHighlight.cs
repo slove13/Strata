@@ -1,7 +1,7 @@
-﻿using Strata.Planets;
-using Makai.Camera;
+﻿using Makai.Camera;
 using Makai.Drawing;
 using Microsoft.Xna.Framework;
+using Strata.Planets;
 namespace Strata.HUD
 {
     class NeighborHighlight

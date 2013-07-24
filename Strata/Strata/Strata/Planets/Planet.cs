@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Strata.Planets.Wilds.Animals;
-using Strata.Planets.Wilds.Plants;
 using Makai;
 using Makai.Camera;
 using Makai.Content;
@@ -9,6 +7,8 @@ using Makai.Drawing;
 using Makai.Helpers;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Strata.Planets.Wilds.Animals;
+using Strata.Planets.Wilds.Plants;
 namespace Strata.Planets
 {
     abstract class Planet

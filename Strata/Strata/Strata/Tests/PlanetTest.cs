@@ -1,7 +1,7 @@
-﻿using Strata.HUD;
-using Strata.Planets;
-using Makai.Camera;
+﻿using Makai.Camera;
 using Makai.Graphics;
+using Strata.HUD;
+using Strata.Planets;
 namespace Strata.Tests
 {
     class PlanetTest

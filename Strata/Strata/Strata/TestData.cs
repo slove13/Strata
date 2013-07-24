@@ -1,7 +1,7 @@
-﻿using Strata.Tests;
-using Makai.Camera;
+﻿using Makai.Camera;
 using Makai.Graphics;
 using Microsoft.Xna.Framework;
+using Strata.Tests;
 namespace Strata
 {
     static class TestData

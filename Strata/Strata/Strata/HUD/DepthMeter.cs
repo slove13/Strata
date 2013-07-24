@@ -1,7 +1,7 @@
-﻿using Strata.Planets;
-using Makai.Drawing;
+﻿using Makai.Drawing;
 using Makai.Graphics;
 using Microsoft.Xna.Framework;
+using Strata.Planets;
 namespace Strata.HUD
 {
     class DepthMeter
