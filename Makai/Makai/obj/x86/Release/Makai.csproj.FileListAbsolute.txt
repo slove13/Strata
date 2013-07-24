@@ -1,0 +1,5 @@
+C:\Users\Makai\Documents\GitHub\Strata\Makai\Makai\bin\x86\Release\Makai.dll
+C:\Users\Makai\Documents\GitHub\Strata\Makai\Makai\bin\x86\Release\Makai.pdb
+C:\Users\Makai\Documents\GitHub\Strata\Makai\Makai\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Makai\Documents\GitHub\Strata\Makai\Makai\obj\x86\Release\Makai.dll
+C:\Users\Makai\Documents\GitHub\Strata\Makai\Makai\obj\x86\Release\Makai.pdb

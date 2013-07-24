@@ -1,0 +1,16 @@
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\obj\x86\Debug\Strata.csprojResolveAssemblyReference.cache
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Strata.exe
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Strata.pdb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Makai.dll
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Makai.pdb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\obj\x86\Debug\Strata.exe
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\obj\x86\Debug\Strata.pdb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Layers\Dirt.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Layers\Lava.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Layers\Rock.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Layers\Sand.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Layers\Water.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Wilds\Animals\Pig.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Wilds\Plants\Grass.xnb
+C:\Users\Makai\Documents\GitHub\Strata\Strata\Strata\Strata\bin\x86\Debug\Content\Images\Wilds\Plants\Tree.xnb
